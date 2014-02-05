@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<addressbook>
+	<person id="max">
+		<name>Max Mollon</name>
+		<addr>23 Geneva</addr>
+		<tel>disconnected</tel>
+		<twitter>maxmollon</twitter>
+	</person>
+	<!-- more people -->
+	<person id="alex">
+		<name>Alex Burdin</name>
+		<addr>23 Geneva</addr>
+		<tel>1234-576</tel>
+		<twitter>@4l3x</twitter>
+	</person>
+	<person id="cassandre">
+		<name>Cassandre Poirier</name>
+		<addr>12 Geneva</addr>
+		<tel>7434-323423-323</tel>
+		<twitter>cass</twitter>
+	</person>	
+</addressbook>
